@@ -32,7 +32,7 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 
 ### 🎯 Proyectos Destacados
 
-Aquí hay algunos proyectos de los que me siento particularmente orgulloso/a, que demuestran mi experiencia en **desarrollo Full Stack**, **Machine Learning** y **automatización**:
+Aquí hay algunos proyectos de los que me siento particularmente orgulloso, que demuestran mi experiencia en **desarrollo Full Stack**, **Machine Learning** y **automatización**:
 
 * **deeplearning-perros-y-gatos**
     * Un proyecto de Visión por Computadora que utiliza una Red Neuronal Convolucional (CNN) para clasificar imágenes de gatos y perros. El modelo fue entrenado desde cero con TensorFlow y Keras, y está desplegado como una aplicación web interactiva usando Flask.
