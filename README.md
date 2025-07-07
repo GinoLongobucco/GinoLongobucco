@@ -54,7 +54,7 @@ Algunos datos sobre mi actividad en GitHub:
 
 ### 📬 Conéctate Conmigo
 
-¡Siempre estoy abierto/a a nuevas ideas y colaboraciones! No dudes en contactarme:
+¡Siempre estoy abierto a nuevas ideas y colaboraciones! No dudes en contactarme:
 
 * **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/ginolongobucco/)
 * **Email:** [Correo electronico](mailto:ginolongob@gmail.com)
