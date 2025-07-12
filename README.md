@@ -39,9 +39,6 @@ Aquí hay algunos proyectos de los que me siento particularmente orgulloso, que 
 * **deeplearning-perros-y-gatos**
     * Un proyecto de Visión por Computadora que utiliza una Red Neuronal Convolucional (CNN) para clasificar imágenes de gatos y perros. El modelo fue entrenado desde cero con TensorFlow y Keras, y está desplegado como una aplicación web interactiva usando Flask.
     * [Enlace al Repositorio](https://github.com/GinoLongobucco/deeplearning-perros-y-gatos)
-* **app-predictor-de-precios**
-    * Este proyecto es una aplicación web funcional construida con Flask que utiliza un modelo de Machine Learning (Random Forest) para predecir el precio de un libro basándose en su título y calificación.
-    * [Enlace al Repositorio](https://github.com/GinoLongobucco/app-predictor-de-precios)
 
 ---
 
