@@ -33,7 +33,9 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 ### 🎯 Proyectos Destacados
 
 Aquí hay algunos proyectos de los que me siento particularmente orgulloso, que demuestran mi experiencia en **desarrollo Full Stack**, **Machine Learning** y **automatización**:
-
+* **SaaSGenius**
+    * SaaSGenius es una plataforma avanzada de análisis de proyectos SaaS que utiliza inteligencia artificial para convertir conceptos de negocio en planes estratégicos completos. Combina múltiples modelos de IA para proporcionar análisis de mercado, recomendaciones tecnológicas y roadmaps de desarrollo personalizados.
+    * [Enlace al Repositorio](https://github.com/GinoLongobucco/SaaSGenius.git)
 * **deeplearning-perros-y-gatos**
     * Un proyecto de Visión por Computadora que utiliza una Red Neuronal Convolucional (CNN) para clasificar imágenes de gatos y perros. El modelo fue entrenado desde cero con TensorFlow y Keras, y está desplegado como una aplicación web interactiva usando Flask.
     * [Enlace al Repositorio](https://github.com/GinoLongobucco/deeplearning-perros-y-gatos)
